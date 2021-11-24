@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Aditya01010010/2CC-Project-Portfolio-Website/issues"
   },
-  "homepage": "https://github.com/Aditya01010010/2CC-Project-Portfolio-Website#readme"
+  "homepage": "https://github.com/Aditya01010010/2CC-Project-Portfolio-Website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
