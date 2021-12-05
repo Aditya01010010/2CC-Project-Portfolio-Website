@@ -1,0 +1,70 @@
+html, body {
+    height: 100%;
+    width: 100%;
+
+    background-color: #171f24;
+}
+
+.padding {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.padding-list {
+    padding-bottom: 1rem;
+}
+
+.navbar {
+    padding: 1rem;
+}
+.navbar h1 {
+    color: #fff;
+}
+
+.titles {
+    color: #fff;
+}
+
+.experience {
+    color: #fff;
+    margin: 4rem;
+}
+
+.about-heading {
+    margin-top: 2rem;
+}
+.skills-text {
+    margin-left: 4rem;
+    margin-top: 4rem;
+    position: absolute;
+    color: #fff;
+}
+/* .about-content {
+    margin-left: 0.5rem;
+}
+.about-content-p {
+    margin-left: 0.5rem;
+} */
+
+
+.social-content {
+    background-color: #fff;
+}
+.social a {
+    font-size: 8rem;
+    padding: 3rem;
+}
+.fa-github {
+    color: black;
+    padding-top: 2rem;
+}
+
+.card-header {
+    background-color: #333;
+    color: #fff;
+}
+
+footer {
+    background-color : #121212;
+    color : white;
+    padding: 2rem;
+}
