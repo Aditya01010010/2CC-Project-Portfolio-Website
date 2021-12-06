@@ -1,7 +1,6 @@
 html, body {
     height: 100%;
     width: 100%;
-
     background-color: #171f24;
 }
 
@@ -29,6 +28,11 @@ html, body {
     margin: 4rem;
 }
 
+.projects {
+    color: #fff;
+    margin: 4rem;
+}
+
 .about-heading {
     margin-top: 2rem;
 }
@@ -38,13 +42,6 @@ html, body {
     position: absolute;
     color: #fff;
 }
-/* .about-content {
-    margin-left: 0.5rem;
-}
-.about-content-p {
-    margin-left: 0.5rem;
-} */
-
 
 .social-content {
     background-color: #fff;
@@ -62,6 +59,19 @@ html, body {
     background-color: #333;
     color: #fff;
 }
+
+.carousel-inner img {
+    height: 70%;
+    width: 70%;   
+    margin-left:15%;
+}
+.carousel-item {
+    transition: -webkit-transform 0.5s ease;
+    transition: transform 0.5s ease;
+    transition: transform 0.5s ease, -webkit-transform 0.5s ease;
+    -webkit-backface-visibility: visible;
+    backface-visibility: visible;
+  }
 
 footer {
     background-color : #121212;
